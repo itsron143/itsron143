@@ -1,1 +1,3 @@
-![GIF](https://media.giphy.com/media/c7uMkvVNWKrUQ/giphy.gif)
+<div align="center">
+	<img src="https://media.giphy.com/media/c7uMkvVNWKrUQ/giphy.gif" alt="moooooooood">
+</div>
